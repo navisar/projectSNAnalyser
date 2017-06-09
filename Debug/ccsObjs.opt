@@ -1,0 +1,1 @@
+"./wait.obj" "./tm4c123gh6pm_startup_ccs.obj" "./step9n10.obj" "../tm4c123gh6pm.cmd" -l"libc.a" 
